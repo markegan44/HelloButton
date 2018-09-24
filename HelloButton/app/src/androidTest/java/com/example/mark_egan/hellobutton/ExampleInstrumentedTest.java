@@ -1,4 +1,4 @@
-package com.example.mark_egan.hellobuton;
+package com.example.mark_egan.hellobutton;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.mark_egan.hellobuton", appContext.getPackageName());
+        assertEquals("com.example.mark_egan.hellobutton", appContext.getPackageName());
     }
 }

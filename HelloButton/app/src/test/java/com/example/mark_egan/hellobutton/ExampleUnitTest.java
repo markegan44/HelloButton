@@ -1,4 +1,4 @@
-package com.example.mark_egan.hellobuton;
+package com.example.mark_egan.hellobutton;
 
 import org.junit.Test;
 
