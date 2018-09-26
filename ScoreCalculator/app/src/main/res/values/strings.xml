@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ScoreCalculator</string>
+    <string name="threefixes">3 Fixes</string>
+    <string name="twofixes">2 Fixes</string>
+    <string name="onefixes">1 Fix</string>
+    <string name="zerofixes">0 Fix</string>
+    <string name="nearball">Near Ball</string>
+    <string name="farball">Far Ball</string>
+    <string name="robothome">Robot Home</string>
+    <string name="colorid">Color Identification</string>
+    <string name="colorpoints">Color Points %d</string>
+    <string name="Distancesfromcone">Distance From Cones</string>
+    <string name="distancefeet">Distance [ft]</string>
+    <string name="points">0 color points</string>
+    <string name="update">Update</string>
+    <string name="blackwhitemission">Black/White (WB) Mission:</string>
+    <string name="wbpoints">%d wb points</string>
+    <string name="wbfailure">WB Failure</string>
+    <string name="wbsuccess">WB Success</string>
+    <string name="totalpoints">%d points</string>
+    <string name="reset">Reset</string>
+    <string name="point">Points</string>
+
+</resources>
